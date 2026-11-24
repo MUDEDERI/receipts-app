@@ -1,0 +1,15 @@
+{
+  // Receipt app for Hizway Investments Limited. Static files only, no server code.
+  //
+  // "name" becomes part of the web address: https://<name>.<your-subdomain>.workers.dev
+  // Choose it before the first deploy and never change it afterwards. Receipts, numbering
+  // and the security code are saved in each browser for one exact address, so a new
+  // address starts empty.
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "hizway-investments",
+  "compatibility_date": "2026-11-23",
+  "workers_dev": true,
+  "assets": {
+    "directory": "./public"
+  }
+}

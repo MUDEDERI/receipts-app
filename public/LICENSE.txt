@@ -1,0 +1,18 @@
+HIZWAY INVESTMENTS LIMITED RECEIPT APP - COPYRIGHT NOTICE
+
+Copyright (c) 2026 Hizway Investments Limited. All rights reserved.
+
+This software (the "Software") is the property of Hizway Investments Limited.
+
+Without the written permission of Hizway Investments Limited, no one may copy,
+sell, rent, share, sublicense, publish or distribute the Software or any part
+of it, or remove this notice. This does not limit any right the law gives you
+that cannot be switched off by a notice.
+
+Parts of the Software were made by other people and are used under their own
+licences. They are listed in THIRD-PARTY-NOTICES.txt. Nothing in this notice
+changes those licences.
+
+The Software is provided "as it is", without any warranty. To the extent the
+law allows, Hizway Investments Limited is not responsible for losses that
+arise from using it.

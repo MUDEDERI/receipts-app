@@ -1,0 +1,15 @@
+{
+  "name": "hizway-investments-receipts",
+  "version": "1.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "author": "Hizway Investments Limited",
+  "description": "Receipt printing app for Hizway Investments Limited, served as static files by Cloudflare Workers.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.167.0"
+  }
+}
